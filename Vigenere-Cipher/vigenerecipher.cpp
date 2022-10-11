@@ -1,5 +1,10 @@
+/*
+Nama    : Kharisma Fitri Nurunnisa Siahaan
+NPM     : 140810200047
+Kelas   : A
+Program : Vigenere Cipher
+*/
 #include <iostream>
-// #include <cstring>
 #include<bits/stdc++.h>
 using namespace std;
 
